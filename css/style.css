@@ -719,16 +719,4 @@ input:valid ~ label{
     }
 
     
- .parentc{
-    width: 300px;
-    position: relative;
- }
-
- .inputbox{
-    width: 250px;
-    position: relative;
-    left: 10%;
-    border-bottom: 2px solid wheat;
-}
-    
 }
